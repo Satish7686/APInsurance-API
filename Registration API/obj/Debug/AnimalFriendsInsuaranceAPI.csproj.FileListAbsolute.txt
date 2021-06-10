@@ -62,3 +62,67 @@ C:\Users\sc32762\Work Folders\Documents\Registration API\Registration API\obj\De
 C:\Users\sc32762\Work Folders\Documents\Registration API\Registration API\obj\Debug\AnimalFriendsInsuaranceAPI.csproj.CopyComplete
 C:\Users\sc32762\Work Folders\Documents\Registration API\Registration API\obj\Debug\Registration API.dll
 C:\Users\sc32762\Work Folders\Documents\Registration API\Registration API\obj\Debug\Registration API.pdb
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Registration API.dll.config
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Registration API.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Registration API.pdb
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csc.exe
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csc.exe.config
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csc.rsp
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csi.exe
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csi.exe.config
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\csi.rsp
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.AppContext.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Console.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.IO.Compression.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Claims.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.ValueTuple.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\vbc.exe
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\vbc.exe.config
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\vbc.rsp
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\VBCSCompiler.exe
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Newtonsoft.Json.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Net.Http.Formatting.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Web.Http.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Web.Http.WebHost.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Newtonsoft.Json.xml
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Net.Http.Formatting.xml
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Web.Http.xml
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\System.Web.Http.WebHost.xml
+C:\Users\sc32762\source\repos\Registration API\Registration API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sc32762\source\repos\Registration API\Registration API\obj\Debug\AnimalFriendsInsuaranceAPI.csprojAssemblyReference.cache
+C:\Users\sc32762\source\repos\Registration API\Registration API\obj\Debug\AnimalFriendsInsuaranceAPI.csproj.CoreCompileInputs.cache
+C:\Users\sc32762\source\repos\Registration API\Registration API\obj\Debug\AnimalFriendsInsuaranceAPI.csproj.CopyComplete
+C:\Users\sc32762\source\repos\Registration API\Registration API\obj\Debug\Registration API.dll
+C:\Users\sc32762\source\repos\Registration API\Registration API\obj\Debug\Registration API.pdb

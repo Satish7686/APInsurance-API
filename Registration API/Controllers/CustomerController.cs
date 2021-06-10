@@ -11,27 +11,22 @@ namespace Registration_API.Controllers
 {
     public class CustomerController : ApiController
     {
-        int CustomerID = 0;
+        private int CustomerID = 0;
         [HttpPost]
-        public int CaptureCustomerInfo([FromUri]CustomerModel customer)
+        public int CaptureCustomerInfo(CustomerModel customer)
         {
 
             if (ModelState.IsValid)
             {
-                if (customer.DateOfBirth != null)
+                DateTime dob = Convert.ToDateTime(customer.DateOfBirth);
+
+                DateTime CurrentDate = DateTime.Now;
+                int CurrentAge = CurrentDate.Year - dob.Year;
+                if (CurrentAge >= 18)
                 {
-                    DateTime dob = Convert.ToDateTime(customer.DateOfBirth);
-
-                    DateTime CurrentDate = DateTime.Now;
-                    int CurrentAge = CurrentDate.Year - dob.Year;
-                    if (CurrentAge >= 18)
-                    {
-                        CustomerID = SaveCustomer(customer);
-                    }
-
+                    CustomerID = SaveCustomer(customer);
                 }
-                CustomerID = SaveCustomer(customer);
-
+               
             }
 
             return CustomerID;
@@ -41,6 +36,7 @@ namespace Registration_API.Controllers
         {
 
             string fileName = @"C:\Users\sc32762\CustomerInfo.txt";
+
             if (!File.Exists(fileName))
             {
 
@@ -59,7 +55,7 @@ namespace Registration_API.Controllers
                         CustomerID++;
                     }
                     reader.Close();
-                    using (StreamWriter writer = File.CreateText(fileName))
+                    using (StreamWriter writer = File.AppendText(fileName))
                     {
                         writer.WriteLine(++CustomerID + " " + customerdata.FirstName + " " + customerdata.Surname + " " + customerdata.DateOfBirth + " " + customerdata.PolicyHolderEmailAddress + " " + customerdata.PolicyReferenceNumber);
                     }

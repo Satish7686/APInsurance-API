@@ -10,20 +10,22 @@ namespace Registration_API.Models
     public class CustomerModel : ICustomerInsurer
     {
         [Required]
-        [Range(3, 50)]
+        [MinLength(3)]
+        [MaxLength(50)]
         public string FirstName { get; set; }
 
         [Required]
-        [Range(3, 50)]
+        [MinLength(3)]
+        [MaxLength(50)]
         public string Surname { get; set; }
 
-        [RegularExpression(@"^[A-Z]{2}[-]\d{6} *$")]
+       
         [Required]
+        [RegularExpression(@"^[A-Z]{2}[-]\d{6} *$")]
         public string PolicyReferenceNumber { get; set; }
         //Validation 
-
         public DateTime DateOfBirth { get; set; }
-        
+
         [RegularExpression(@"^[a-zA-Z0-9_.+-]{4,99}@[a-zA-Z0-9-]{2,99}\.[\.com or co\.uk]+$")]  
         public string PolicyHolderEmailAddress { get; set; }
 
